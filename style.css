@@ -106,7 +106,7 @@ video {
     transform: translateY(100px) rotateX(90deg);
     animation: face6 10s 1 normal linear;
 	background-color: orange;
-	background-image: url("images/sharon_david.jpg");
+	background-image: url("images/coco.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
