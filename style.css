@@ -7,9 +7,12 @@
 }
 
 body {
-    background-color: skyblue;
+    background-color: #565012;
 }
-
+h1 {
+	padding: 25px;
+	text-align: center;
+}
 video {
     width: 100%;
     height: 100%;
@@ -60,40 +63,52 @@ video {
     transform: translateZ(100px);
     animation: face1 10s 1 normal linear;
 	background-color: red;
-	background-image: url("images/live-unicorn.jpg");
+	background-image: url("images/jason11.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #two {
     transform: translateZ(-100px);
     animation: face2 10s 1 normal linear;
-	background-image: url("images/live-unicorn.jpg");
+	background-image: url("images/RSVP APP 176.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #three {
     transform: translateX(100px) rotateY(90deg);
     animation: face3 10s 1 normal linear;
 	background-color: blue;
-	background-image: url("images/rainbow-unicorn.jpg");
+	background-image: url("images/RSVP APP 011.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #four {
     transform: translateX(-100px) rotateY(90deg);
     animation: face4 10s 1 normal linear;
 	background-color: green;
-	background-image: url("images/two-unicorns.jpg");
+	background-image: url("images/sharon.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #five {
     transform: translateY(-100px) rotateX(90deg);
     animation: face5 10s 1 normal linear;
-	background-image: url("images/unicorn.jpg");
+	background-image: url("images/sharon_ian.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #six {
     transform: translateY(100px) rotateX(90deg);
     animation: face6 10s 1 normal linear;
 	background-color: orange;
-	background-image: url("images/Unicorn-Wallpaper.jpg");
+	background-image: url("images/sharon_david.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /* FACE ANIMATIONS */
