@@ -8,8 +8,11 @@
 
 body {
     background-color: #565012;
+	font-family: 'Hachi Maru Pop', cursive;
 }
 h1 {
+	margin-top: 100px;
+	margin-left: 25px;
 	padding: 25px;
 	text-align: center;
 }
@@ -63,52 +66,52 @@ video {
     transform: translateZ(100px);
     animation: face1 10s 1 normal linear;
 	background-color: red;
-	background-image: url("images/jason11.jpg");
+	/*background-image: url("images/jason11.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
 }
 
 #two {
     transform: translateZ(-100px);
     animation: face2 10s 1 normal linear;
-	background-image: url("images/RSVP APP 176.JPG");
+	/*background-image: url("images/RSVP APP 176.JPG");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
 }
 
 #three {
     transform: translateX(100px) rotateY(90deg);
     animation: face3 10s 1 normal linear;
 	background-color: blue;
-	background-image: url("images/RSVP APP 011.JPG");
+	/*background-image: url("images/RSVP APP 011.JPG");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
 }
 
 #four {
     transform: translateX(-100px) rotateY(90deg);
     animation: face4 10s 1 normal linear;
 	background-color: green;
-	background-image: url("images/sharon.jpg");
+	/*background-image: url("images/sharon.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
 }
 
 #five {
     transform: translateY(-100px) rotateX(90deg);
     animation: face5 10s 1 normal linear;
-	background-image: url("images/sharon_ian.jpg");
+	/*background-image: url("images/sharon_ian.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
 }
 
 #six {
     transform: translateY(100px) rotateX(90deg);
     animation: face6 10s 1 normal linear;
 	background-color: orange;
-	background-image: url("images/coco.jpg");
+	/*background-image: url("images/coco.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
 }
 
 /* FACE ANIMATIONS */
