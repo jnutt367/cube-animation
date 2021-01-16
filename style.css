@@ -7,10 +7,10 @@
 }
 
 body {
-    background-color: #565012;
+    background-color: skyblue;
 	font-family: 'Hachi Maru Pop', cursive;
 }
-h1 {
+h1, h2, p {
 	margin-top: 100px;
 	margin-left: 25px;
 	padding: 25px;
